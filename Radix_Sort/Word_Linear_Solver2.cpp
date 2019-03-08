@@ -1,10 +1,3 @@
-/*
-	ADS - Spring 2018
-	Ardit Shala / 30001420
-	Sort Strings in Linear Time
-	I used Radix Sort to do that
-*/
-
 #include <cstdio>
 #include <iostream>
 #include <string>
