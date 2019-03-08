@@ -1,9 +1,3 @@
-/*
-	ADS-Spring 2018
-	Ardit Shala
-	Problem 2.(a)
-*/
-
 #include <iostream>
 #include <vector>
 using namespace std;
