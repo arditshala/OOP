@@ -1,10 +1,3 @@
-/*
-    Ardit Shala ADS - Spring 2018
-    a.shala@jacobs-university.de
-    30001420 / April 04 2018
-    Problem 1: (a)
-*/
-
 #include <iostream>
 
 using namespace std;
