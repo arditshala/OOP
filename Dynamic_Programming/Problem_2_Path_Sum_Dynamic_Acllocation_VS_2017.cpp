@@ -1,3 +1,8 @@
+/*
+   Ardit Shala 
+   Compiled with VS2015
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
